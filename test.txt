@@ -1,0 +1,10 @@
+// Note
+
+url: localhost:3000
+route: note -> localhost:3000/note
+
+- Get All Notes: GET localhost:3000/note
+- Get Single Note: GET localhost:3000/note/:id
+- Create Note: POST localhost:3000/note
+- Update Note: PUT localhost:3000/note/:id
+- DELETE Note: DELETE localhost:3000/note/:id
